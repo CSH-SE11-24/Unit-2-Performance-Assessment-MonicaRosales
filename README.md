@@ -1,0 +1,4 @@
+The concept of the word guessing game is just to see what users think about when they hear a certain category, and see if they can get the word right from a certain category with a low attempt score. 
+The instuctions for this game is that users will input a category that is listed to guess a certain word from, and users will keep on guessing until they get it right. And after they get it right, the can choose whether or not they would like to play again.
+I am most proud of how along the way I kept on getting errors, but I was able to see what was wrong, and then I was able to debug the certain code.
+What I wouldh've liked to do if I had more time was add more categories and more words to each category. 
